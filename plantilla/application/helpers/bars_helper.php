@@ -114,6 +114,13 @@ if (!function_exists('main_menu')) {
 						Full Page </span>
 						</a>
 					</li>
+					<li class="tooltips" data-container="body" data-placement="right" data-html="true" data-original-title="Pantalla Full">
+						<a href="' . $base_url . 'alta">
+						<i class="icon-notebook"></i>
+						<span class="title">
+						Alta Puesto </span>
+						</a>
+					</li>
 				</ul>
 				<!-- END SIDEBAR MENU -->';
 
